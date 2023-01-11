@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celizarbe
-- 👀 I’m interested in Astronomy, gaming, healthcare, psychology, philosophy
-- 🌱 I’m currently learning Python 3.10 and Data Science/Machine Learning
-- 💞️ I’m looking to collaborate on whatever I can, when I'm ready!
+- 👨‍🎓 I'm a Peruvian industrial and systems engineer, looking to start a career in Machine Learning
+- 👀 I’m interested in a wide variety of topics, including astronomy, gaming, healthcare, psychology, philosophy
+- 🌱 I’m currently learning Machine Learning with Python
 
 <!---
 celizarbe/celizarbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
